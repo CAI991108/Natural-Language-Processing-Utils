@@ -1,0 +1,146 @@
+[
+    {
+        "question_type": "最佳选择题",
+        "groundtruth": "B",
+        "model_answer": "A",
+        "model_choice": "A"
+    },
+    {
+        "question_type": "多项选择题",
+        "groundtruth": "BCDE",
+        "model_answer": "A",
+        "model_choice": "A"
+    },
+    {
+        "question_type": "最佳选择题",
+        "groundtruth": "B",
+        "model_answer": "A",
+        "model_choice": "A"
+    },
+    {
+        "question_type": "最佳选择题",
+        "groundtruth": "D",
+        "model_answer": "A",
+        "model_choice": "A"
+    },
+    {
+        "question_type": "最佳选择题",
+        "groundtruth": "B",
+        "model_answer": "A",
+        "model_choice": "A"
+    },
+    {
+        "question_type": "多项选择题",
+        "groundtruth": "ACE",
+        "model_answer": "ACDE",
+        "model_choice": "ACDE"
+    },
+    {
+        "question_type": "最佳选择题",
+        "groundtruth": "A",
+        "model_answer": "C",
+        "model_choice": "C"
+    },
+    {
+        "question_type": "配伍选择题",
+        "groundtruth": "E",
+        "model_answer": "D",
+        "model_choice": "D"
+    },
+    {
+        "question_type": "配伍选择题",
+        "groundtruth": "D",
+        "model_answer": "B",
+        "model_choice": "B"
+    },
+    {
+        "question_type": "多项选择题",
+        "groundtruth": "ABE",
+        "model_answer": "BE",
+        "model_choice": "BE"
+    },
+    {
+        "question_type": "配伍选择题",
+        "groundtruth": "B",
+        "model_answer": "D",
+        "model_choice": "D"
+    },
+    {
+        "question_type": "综合分析选择题",
+        "groundtruth": "D",
+        "model_answer": "C",
+        "model_choice": "C"
+    },
+    {
+        "question_type": "配伍选择题",
+        "groundtruth": "C",
+        "model_answer": "D",
+        "model_choice": "D"
+    },
+    {
+        "question_type": "配伍选择题",
+        "groundtruth": "C",
+        "model_answer": "D",
+        "model_choice": "D"
+    },
+    {
+        "question_type": "最佳选择题",
+        "groundtruth": "D",
+        "model_answer": "C",
+        "model_choice": "C"
+    },
+    {
+        "question_type": "配伍选择题",
+        "groundtruth": "D",
+        "model_answer": "C",
+        "model_choice": "C"
+    },
+    {
+        "question_type": "综合分析选择题",
+        "groundtruth": "A",
+        "model_answer": "C",
+        "model_choice": "C"
+    },
+    {
+        "question_type": "配伍选择题",
+        "groundtruth": "D",
+        "model_answer": "B",
+        "model_choice": "B"
+    },
+    {
+        "question_type": "配伍选择题",
+        "groundtruth": "C",
+        "model_answer": "D",
+        "model_choice": "D"
+    },
+    {
+        "question_type": "多项选择题",
+        "groundtruth": "BCE",
+        "model_answer": "B",
+        "model_choice": "B"
+    },
+    {
+        "question_type": "最佳选择题",
+        "groundtruth": "A",
+        "model_answer": "C",
+        "model_choice": "C"
+    },
+    {
+        "question_type": "最佳选择题",
+        "groundtruth": "B",
+        "model_answer": "E",
+        "model_choice": "E"
+    },
+    {
+        "question_type": "综合分析选择题",
+        "groundtruth": "C",
+        "model_answer": "B",
+        "model_choice": "B"
+    },
+    {
+        "question_type": "最佳选择题",
+        "groundtruth": "B",
+        "model_answer": "C",
+        "model_choice": "C"
+    }
+]

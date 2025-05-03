@@ -1,0 +1,28 @@
+{
+    "latex-workshop.latex.tools": [
+        {
+            "name": "xelatex",
+            "command": "xelatex",
+            "args": [
+                "-synctex=1",
+                "-shell-escape",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "-output-directory=./tmp",
+                "%DOC%"
+            ]
+        }
+    ],
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "xelatex (no bibtex)",
+            "tools": ["xelatex", "xelatex"]
+        }
+    ],
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.latex.outDir": "./tmp",
+    "latex-workshop.synctex.afterBuild.enabled": true,
+    "cSpell.words": [
+        "thebibliography"
+    ]
+  }
